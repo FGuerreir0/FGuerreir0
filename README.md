@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiofsguerreiro/)
-&nbsp;
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fguerreir0/?hl=pt)
 &nbsp;
