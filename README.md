@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
 <!--
 **FGuerreir0/FGuerreir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
