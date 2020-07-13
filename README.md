@@ -1,14 +1,11 @@
-### Hi there 👋
+# Fábio Guerreiro
+[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiofsguerreiro/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@ffsguerreiro-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ffsguerreiro)](https://medium.com/@ffsguerreiro)
+[![Gmail Badge](https://img.shields.io/badge/-ffsguerreiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ffsguerreiro@gmail.com)](mailto:ffsguerreiro@gmail.com)
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiofsguerreiro/)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fguerreir0/?hl=pt)
-&nbsp;
-[![CodeWars](https://www.codewars.com/users/FGuerreir0/badges/large)](https://www.codewars.com/users/FGuerreir0)
-&nbsp;
+## Hi 👋, 
+I'm Fábio Guerreiro, I'm a Junior Full Stack Developer 👨‍💻 ♂️. 
 
-
-
+🔭 Fell free to visit my website: 
 <!--
 **FGuerreir0/FGuerreir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
