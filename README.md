@@ -1,13 +1,15 @@
-# Fábio Guerreiro
+<h1>👨‍ Fábio Guerreiro </h1>
 [![Linkedin Badge](https://img.shields.io/badge/-fabioguerreiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiofsguerreiro/)](https://www.linkedin.com/in/fabiofsguerreiro/) [![Medium Badge](https://img.shields.io/badge/-@ffsguerreiro-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ffsguerreiro)](https://medium.com/@ffsguerreiro)
 [![Gmail Badge](https://img.shields.io/badge/-ffsguerreiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ffsguerreiro@gmail.com)](mailto:ffsguerreiro@gmail.com)
 
-## Hi 👋, 
-I'm Fábio Guerreiro, I'm a Junior Full Stack Developer 👨‍💻 ♂️. 
+<h2> Hi 👋</h2>, 
+<div align="center">
+I'm Fábio Guerreiro, I'm a Junior Full Stack Developer 💻. 
 
 🔭 Fell free to visit my website: https://fguerreiro.netlify.app/
 
 [![HitCount](http://hits.dwyl.com/FGuerreir0/{project}.svg)](http://hits.dwyl.com/FGuerreir0/{project})
+</div>
 <!--
 **FGuerreir0/FGuerreir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
