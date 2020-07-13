@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/fabiofsguerreiro/"
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fabiofsguerreiro/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/FGuerreir0)
 
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/FGuerreir0"
 <!--
 **FGuerreir0/FGuerreir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
