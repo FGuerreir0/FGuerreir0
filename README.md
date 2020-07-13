@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/fabiofsguerreiro/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiofsguerreiro/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/FGuerreir0)
 
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fguerreir0/?hl=pt)
+&nbsp;
 <!--
 **FGuerreir0/FGuerreir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
