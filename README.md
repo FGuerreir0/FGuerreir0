@@ -5,7 +5,9 @@
 ## Hi 👋, 
 I'm Fábio Guerreiro, I'm a Junior Full Stack Developer 👨‍💻 ♂️. 
 
-🔭 Fell free to visit my website: 
+🔭 Fell free to visit my website: https://fguerreiro.netlify.app/
+
+[![HitCount](http://hits.dwyl.com/FGuerreir0/{project}.svg)](http://hits.dwyl.com/FGuerreir0/{project})
 <!--
 **FGuerreir0/FGuerreir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
