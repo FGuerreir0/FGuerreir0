@@ -12,6 +12,10 @@ I'm Fábio Guerreiro, I'm a Junior Full Stack Developer 💻.
 
 [![Linkedin Badge](https://img.shields.io/badge/-fabioguerreiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiofsguerreiro/)](https://www.linkedin.com/in/fabiofsguerreiro/) [![Medium Badge](https://img.shields.io/badge/-@ffsguerreiro-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ffsguerreiro)](https://medium.com/@ffsguerreiro)
 [![Gmail Badge](https://img.shields.io/badge/-ffsguerreiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ffsguerreiro@gmail.com)](mailto:ffsguerreiro@gmail.com)
+[![Codewars Badge](
+https://www.codewars.com/users/FGuerreir0/badges/micro)](
+https://www.codewars.com/users/FGuerreir0) 
+
 
 </div>
 <!--
