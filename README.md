@@ -1,5 +1,5 @@
 # Fábio Guerreiro
-[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiofsguerreiro/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@ffsguerreiro-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ffsguerreiro)](https://medium.com/@ffsguerreiro)
+[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiofsguerreiro/)](https://www.linkedin.com/in/fabiofsguerreiro/) [![Medium Badge](https://img.shields.io/badge/-@ffsguerreiro-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ffsguerreiro)](https://medium.com/@ffsguerreiro)
 [![Gmail Badge](https://img.shields.io/badge/-ffsguerreiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ffsguerreiro@gmail.com)](mailto:ffsguerreiro@gmail.com)
 
 ## Hi 👋, 
