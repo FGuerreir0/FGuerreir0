@@ -4,7 +4,7 @@
 &nbsp;
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fguerreir0/?hl=pt)
 &nbsp;
-[![CodeWars](https://www.codewars.com/users/FGuerreir0/badges/micro)](https://www.codewars.com/users/FGuerreir0)
+[![CodeWars](https://www.codewars.com/users/FGuerreir0/badges/large)](https://www.codewars.com/users/FGuerreir0)
 &nbsp;
 
 
