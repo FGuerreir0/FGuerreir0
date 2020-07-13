@@ -4,6 +4,11 @@
 &nbsp;
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fguerreir0/?hl=pt)
 &nbsp;
+[![CodeWars](https://www.codewars.com/users/FGuerreir0/badges/micro)](https://www.codewars.com/users/FGuerreir0)
+&nbsp;
+
+
+
 <!--
 **FGuerreir0/FGuerreir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
