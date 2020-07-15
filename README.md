@@ -1,4 +1,4 @@
-<h1>Fábio Guerreiro</h1>
+![alt text](https://res.cloudinary.com/fguerreir0/image/upload/v1594808640/Personal/Fa%CC%81bio_Guerreiro_lfdmio.jpg)
 <div align="center">
 I'm Fábio Guerreiro, I'm a Junior Full Stack Developer 💻. 
 
