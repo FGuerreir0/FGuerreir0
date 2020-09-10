@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hello! I'm Fábio Guerreiro</h1>
 <h3 align="center">💻 A passionate web developer from Portugal 🇵🇹</h3>
 
-- 🔭 I’m currently working on [Pipe.fy](https://github.com/FGuerreir0/E-Commerce-Example)
+- 🔭 I’m currently working on [Covid19 Tracker](https://github.com/FGuerreir0/Covid19Tracker) and [Pipe.fy](https://github.com/FGuerreir0/E-Commerce-Example)
 
 - 🌱 I’m currently learning **React Native and VueJS**
 
