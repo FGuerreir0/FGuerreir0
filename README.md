@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Covid19 Tracker](https://github.com/FGuerreir0/Covid19Tracker) and [Pipe.fy](https://github.com/FGuerreir0/E-Commerce-Example)
 
-- 🌱 I’m currently learning **React Native and VueJS**
+- 🌱 I’m currently learning **React Native** and **VueJS**
 
 - 👨‍💻 All of my projects are available at [https://fguerreiro.netlify.app/](https://fguerreiro.netlify.app/)
 
