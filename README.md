@@ -2,12 +2,16 @@
 
 <h1 align="center">👋 Hello! I'm Fábio Guerreiro</h1>
 <h3 align="center">💻 A passionate web developer from Portugal 🇵🇹</h3>
+<br>
 
-- 🔭 I’m currently working on [Covid19 Tracker](https://github.com/FGuerreir0/Covid19Tracker) and [Pipe.fy](https://github.com/FGuerreir0/E-Commerce-Example)
+- 🔭 I’m currently working on a Private Freelance Project in **React Native**
 
-- 🌱 I’m currently learning **React Native** and **VueJS**
+- 🌱 I’m currently learning **React Native** and **VueJS**, next will be **Angular**
 
-- 👨‍💻 All of my projects are available at [https://fguerreiro.netlify.app/](https://fguerreiro.netlify.app/)
+- 💻  All of my projects are available at [https://fguerreiro.netlify.app/](https://fguerreiro.netlify.app/)
+
+- ⭐ I recommend you to see: [Covid19 Tracker](https://github.com/FGuerreir0/Covid19Tracker)!
+<br>
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="70" height="70"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="70" height="70"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="70" height="70"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fguerreir0&show_icons=true" alt="fguerreir0" /> </p>
 
