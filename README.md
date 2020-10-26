@@ -4,7 +4,7 @@
 <h3 align="center">💻 A passionate web developer from Portugal 🇵🇹</h3>
 <br>
 
-- 🔭 I’m currently working on a Private Freelance Project in **React Native**
+- 🔭 I’m currently working on a Private Freelance Project in **React**
 
 - 🌱 I’m currently learning **React Native** and **VueJS**, next will be **Angular**
 
