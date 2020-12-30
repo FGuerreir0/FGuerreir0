@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Private Freelance Project in **React**
 
-- 🌱 I’m currently learning **React Native** and **VueJS**, next will be **Angular**
+- 🌱 I’m currently learning **Angular**
 
 - 💻  All of my projects are available at [https://fguerreiro.netlify.app/](https://fguerreiro.netlify.app/)
 
@@ -19,8 +19,7 @@
 
 <i>**Contact me:**</i><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiofsguerreiro/)](https://www.linkedin.com/in/fabiofsguerreiro/) [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ffsguerreiro)](https://medium.com/@ffsguerreiro)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ffsguerreiro@gmail.com)](mailto:ffsguerreiro@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiofsguerreiro/)](https://www.linkedin.com/in/fabiofsguerreiro/)
 [![Codewars Badge](
 https://www.codewars.com/users/FGuerreir0/badges/micro)](
 https://www.codewars.com/users/FGuerreir0) 
