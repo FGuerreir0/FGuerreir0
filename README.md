@@ -1,4 +1,3 @@
-![alt text](https://res.cloudinary.com/fguerreir0/image/upload/v1594808640/Personal/Fa%CC%81bio_Guerreiro_lfdmio.jpg)
 
 <h1 align="center">👋 Hello! I'm Fábio Guerreiro</h1>
 <h3 align="center">💻 A passionate web developer from Portugal 🇵🇹</h3>
