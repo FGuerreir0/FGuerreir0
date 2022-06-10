@@ -7,8 +7,6 @@
 
 - 💻  All of my projects are available at [https://fguerreiro.netlify.app/](https://fguerreiro.netlify.app/)
 
-- ⭐ I recommend you to see: [Covid19 Tracker](https://github.com/FGuerreir0/Covid19Tracker)!
-<br>
 
 
 <i>**Network:**</i><br>
