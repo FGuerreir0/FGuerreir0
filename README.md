@@ -9,7 +9,7 @@
 
 
 
-<i>**Network:**</i><br>
+<i>**Find me here:**</i><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiofsguerreiro/)](https://www.linkedin.com/in/fabiofsguerreiro/)
 [![Codewars Badge](
