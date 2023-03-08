@@ -8,7 +8,7 @@
 - 💻  All of my projects are available at [https://fguerreiro.netlify.app/](https://fguerreiro.netlify.app/)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FGuerreir0&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FGuerreir0&layout=compact&theme=dark"/>
 
 
 <i>**Find me here:**</i><br>
