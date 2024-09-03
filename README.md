@@ -3,9 +3,9 @@
 <h3 align="center">💻 A passionate web developer from Portugal 🇵🇹</h3>
 <br>
 
-- 🔭 I’m currently working on **Trading Economics** as Junior Full Stack Developer
+- 🔭 I’m currently working on **Trading Economics** as Full Stack Developer
 
-- 💻  All of my projects are available at [https://fguerreiro.netlify.app/](https://fguerreiro.netlify.app/)
+<!--- 💻  All of my projects are available at [https://fguerreiro.netlify.app/](https://fguerreiro.netlify.app/)-->
 
 
 <h3 align="left">Languages and Tools:</h3>
