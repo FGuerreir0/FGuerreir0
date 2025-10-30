@@ -18,7 +18,9 @@ My focus is on blending solid engineering with creative design to deliver soluti
 ---
 
 ### Selected Projects
-- **r/place Clone** – Collaborative pixel art project using WebSockets and Supabase.  
+- [DotDrop](https://github.com/FGuerreir0/dotdrop) – A real-time collaborative pixel art platform built with WebSockets and Supabase, enabling multiple users to draw, interact, and create artwork together seamlessly.
+- [Chatbot Juan](https://github.com/FGuerreir0/chatbot-juan) - An AI-powered chatbot demonstrating the capabilities of LLMs with Retrieval-Augmented Generation (RAG) and Text-to-Speech (TTS) for interactive and context-aware conversations.
+- [Twitch Bot](https://github.com/FGuerreir0/my-twitch-chat-bot) - A customizable Twitch chat bot that engages viewers, manages chat commands, runs interactive events, and automates moderation for a smooth streaming experience.
 
 ---
 
