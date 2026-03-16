@@ -1,31 +1,12 @@
-# Fabio Guerreiro
+<h1 align="center">Fabio Guerreiro</h1>
 
-**Full-Stack Developer | AI & Data Enthusiast | Creative Technologist**
+<h3 align="center">
+Full-Stack Developer • AI & Data Enthusiast • Creative Technologist
+</h3>
 
-I’m a full-stack developer passionate about building interactive applications, real-time systems, and data-driven tools.  
-My work ranges from modern web platforms and automation systems to AI experiments and creative tech projects.
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-Vue.js • React • Vite • Next.js • Nuxt • React Native
-
-### Backend
-Node.js • Express • Redis • Kafka • ASP.NET • Supabase • WebSockets
-
-### Databases
-MSSQL • MongoDB
-
-### Data & AI
-Python • Pandas • LLMs
-
-### Cloud & DevOps
-AWS • Docker • Git
-
-### Automation & Testing
-Jest • Mocha • Playwright • Puppeteer
+<p align="center">
+I build modern applications that combine <b>real-time systems, AI, and data-driven platforms</b>.
+</p>
 
 ---
 
