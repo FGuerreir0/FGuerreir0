@@ -46,21 +46,6 @@ A multiplayer pixel canvas inspired by r/place where users collaborate in real t
 
 ---
 
-### 🤖 Chatbot Juan  
-**AI chatbot with RAG and voice interaction**
-
-🔗 https://github.com/FGuerreir0/chatbot-juan  
-
-An AI chatbot exploring modern LLM capabilities with Retrieval-Augmented Generation (RAG) and Text-to-Speech for interactive and context-aware conversations.
-
-**Key features**
-- Context-aware responses with RAG
-- Voice interaction via TTS
-- Modular AI architecture
-- Experimentation platform for LLM workflows
-
----
-
 ### 🎮 Twitch Chat Bot  
 **Interactive Twitch automation and engagement bot**
 
@@ -74,14 +59,4 @@ A customizable Twitch bot built with Node.js and TMI.js designed to increase vie
 - Automated moderation
 - Extensible plugin-style structure
 
----
-
-
-## 💡 Interests
-
-- Real-time collaborative systems
-- AI applications and LLM tooling
-- Data analysis and financial data
-- Creative coding and experimental web apps
-- Music and technology
 
