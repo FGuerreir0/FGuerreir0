@@ -15,7 +15,7 @@ I build modern applications that combine <b>real-time systems, AI, and data-driv
 ### 🎼 Al Coda  
 **Founder & Creator**
 
-🔗 https://alcoda.netlify.app/
+🔗 https://alcoda.pt
 
 Al Coda is an **all-in-one management platform for orchestras, bands, and choirs**, designed to simplify the organization of musical ensembles.
 
