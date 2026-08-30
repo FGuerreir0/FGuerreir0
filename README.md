@@ -49,3 +49,11 @@ The platform helps music groups stay organized by managing rehearsals, attendanc
 
 
 
+
+## ☕ Support
+
+These are free and open source, and stay that way. If something here saved you time or caught a problem for you, you can buy me a coffee.
+
+<p align="center">
+  <a href="https://buymeacoffee.com/fabioguerreiro"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
+</p>
