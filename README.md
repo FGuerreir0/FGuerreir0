@@ -19,7 +19,7 @@ I build modern applications that combine <b>real-time systems, AI, and data-driv
 
 Detects **ghost imports** — npm packages that don't exist, hallucinated by AI coding tools like Cursor, Copilot, and Claude.
 
-AI tools sometimes generate `import` statements for packages that don't exist on npm. `ghostimport` scans your codebase and flags them before they cause a build failure — or worse, before an attacker registers the name with a malicious payload.
+AI tools invent `import` statements for npm packages that don't exist. The name then sits unclaimed in your repository, which means anyone can publish it — with a `postinstall` script that runs on your next `npm install`, before you read a line of it. `ghostimport` checks names against the live registry the moment your agent writes them, as an MCP server and agent hook rather than a linter you have to remember to run.
 
 ```bash
 npm install --save-dev ghostimport
