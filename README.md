@@ -28,6 +28,7 @@
 > While scanning 174 public repositories with ghostimport, I found that Lovable's project template imported `lovable-agent-playwright-config`, a package nobody had ever published on npm. It was in **404 public repos**, and anyone could have registered it and run code on every machine that installed it. I reported it privately and Lovable reserved the name **16 days later**.
 >
 > [Read the field report →](https://fguerreir0.github.io/ghostimport/research/)
+> 
 > [HackerOne thanks page →](https://hackerone.com/lovable-vdp/thanks)
 
 ---
