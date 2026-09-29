@@ -27,7 +27,8 @@
 >
 > While scanning 174 public repositories with ghostimport, I found that Lovable's project template imported `lovable-agent-playwright-config`, a package nobody had ever published on npm. It was in **404 public repos**, and anyone could have registered it and run code on every machine that installed it. I reported it privately and Lovable reserved the name **16 days later**.
 >
-> [Read the field report →](https://fguerreir0.github.io/ghostimport/research/) · [HackerOne thanks page →](https://hackerone.com/lovable-vdp/thanks)
+> [Read the field report →](https://fguerreir0.github.io/ghostimport/research/)
+> [HackerOne thanks page →](https://hackerone.com/lovable-vdp/thanks)
 
 ---
 
@@ -41,7 +42,7 @@
 | **[Clarinetes de Santiago](https://clarinetesdesantiago.netlify.app)** | The official website of a clarinet ensemble, designed and built by me and maintained since 2022. | React, Netlify Functions |
 | **Booking marketplace** *(private)* | A two-sided marketplace with real-time messaging, booking requests, reviews and a provider dashboard. | Next.js, TypeScript, Supabase |
 
-#### ghostimport, live
+#### ghostimport
 
 <p>
   <a href="https://www.npmjs.com/package/ghostimport"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/npm/dm/ghostimport?label=downloads&style=for-the-badge&color=FAFAF8&labelColor=FAFAF8&logoColor=0E0E0C"><img alt="npm downloads per month" src="https://img.shields.io/npm/dm/ghostimport?label=downloads&style=for-the-badge&color=0E0E0C&labelColor=0E0E0C&logoColor=FAFAF8"></picture></a>
@@ -62,15 +63,6 @@ I started programming in secondary school, then spent a decade as a musician and
 - **From music:** years of daily practice taught me to polish the details, and ensembles taught me to listen and work as a team.
 - **From changing careers:** I pick up new tools quickly and learn on the job.
 - **From working with people:** I stay calm under pressure and own a problem until it's solved.
-
----
-
-### Stack
-
-- **Frontend:** React · Next.js · Vue.js · Nuxt · React Native
-- **Backend:** Node.js · Express · ASP.NET · Redis · Kafka · WebSockets
-- **Data:** MSSQL · MongoDB · Supabase · Python · Pandas
-- **Tooling:** TypeScript · Docker · AWS · GitHub Actions · Playwright · Jest
 
 ---
 
