@@ -10,19 +10,24 @@
 </p>
 
 <p align="center">
-  <a href="https://fabiopguerreiro.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0E0E0C?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/fabiofsguerreiro/"><img src="https://img.shields.io/badge/LinkedIn-0E0E0C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.npmjs.com/package/ghostimport"><img src="https://img.shields.io/badge/npm-ghostimport-0E0E0C?style=for-the-badge&logo=npm&logoColor=white" alt="ghostimport on npm"></a>
+  <a href="https://fabiopguerreiro.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-_?style=for-the-badge&color=FAFAF8&labelColor=FAFAF8&logoColor=0E0E0C"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-_?style=for-the-badge&color=0E0E0C&labelColor=0E0E0C&logoColor=FAFAF8"></picture></a>
+  <a href="https://www.linkedin.com/in/fabiofsguerreiro/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-_?logo=linkedin&style=for-the-badge&color=FAFAF8&labelColor=FAFAF8&logoColor=0E0E0C"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-_?logo=linkedin&style=for-the-badge&color=0E0E0C&labelColor=0E0E0C&logoColor=FAFAF8"></picture></a>
+  <a href="https://www.npmjs.com/package/ghostimport"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ghostimport-_?logo=npm&style=for-the-badge&color=FAFAF8&labelColor=FAFAF8&logoColor=0E0E0C"><img alt="ghostimport on npm" src="https://img.shields.io/badge/ghostimport-_?logo=npm&style=for-the-badge&color=0E0E0C&labelColor=0E0E0C&logoColor=FAFAF8"></picture></a>
 </p>
 
 ---
 
 ### Recognition
 
-**Listed on the Lovable Vulnerability Disclosure Program's 2026 thanks page on HackerOne.**
-While scanning 174 public repositories with ghostimport, I found that Lovable's project template imported `lovable-agent-playwright-config`, a package nobody had ever published on npm. It was in 404 public repos, and anyone could have registered it and run code on every machine that installed it. I reported it privately and Lovable reserved the name 16 days later.
+<p>
+  <a href="https://hackerone.com/lovable-vdp/thanks"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Credited%20by%20Lovable%20on%20HackerOne%20%C2%B7%202026-_?logo=hackerone&style=for-the-badge&color=D9B45A&labelColor=D9B45A&logoColor=0E0E0C"><img alt="Credited by Lovable on HackerOne, 2026" src="https://img.shields.io/badge/Credited%20by%20Lovable%20on%20HackerOne%20%C2%B7%202026-_?logo=hackerone&style=for-the-badge&color=6E5112&labelColor=6E5112&logoColor=FAFAF8"></picture></a>
+</p>
 
-[Read the field report →](https://fguerreir0.github.io/ghostimport/research/) · [HackerOne thanks page →](https://hackerone.com/lovable-vdp/thanks)
+> **Listed on the Lovable Vulnerability Disclosure Program's 2026 thanks page on HackerOne.**
+>
+> While scanning 174 public repositories with ghostimport, I found that Lovable's project template imported `lovable-agent-playwright-config`, a package nobody had ever published on npm. It was in **404 public repos**, and anyone could have registered it and run code on every machine that installed it. I reported it privately and Lovable reserved the name **16 days later**.
+>
+> [Read the field report →](https://fguerreir0.github.io/ghostimport/research/) · [HackerOne thanks page →](https://hackerone.com/lovable-vdp/thanks)
 
 ---
 
@@ -36,7 +41,13 @@ While scanning 174 public repositories with ghostimport, I found that Lovable's 
 | **[Clarinetes de Santiago](https://clarinetesdesantiago.netlify.app)** | The official website of a clarinet ensemble, designed and built by me and maintained since 2022. | React, Netlify Functions |
 | **Booking marketplace** *(private)* | A two-sided marketplace with real-time messaging, booking requests, reviews and a provider dashboard. | Next.js, TypeScript, Supabase |
 
-#### Try ghostimport
+#### ghostimport, live
+
+<p>
+  <a href="https://www.npmjs.com/package/ghostimport"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/npm/dm/ghostimport?label=downloads&style=for-the-badge&color=FAFAF8&labelColor=FAFAF8&logoColor=0E0E0C"><img alt="npm downloads per month" src="https://img.shields.io/npm/dm/ghostimport?label=downloads&style=for-the-badge&color=0E0E0C&labelColor=0E0E0C&logoColor=FAFAF8"></picture></a>
+  <a href="https://github.com/FGuerreir0/ghostimport"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/FGuerreir0/ghostimport?label=stars&logo=github&style=for-the-badge&color=FAFAF8&labelColor=FAFAF8&logoColor=0E0E0C"><img alt="GitHub stars" src="https://img.shields.io/github/stars/FGuerreir0/ghostimport?label=stars&logo=github&style=for-the-badge&color=0E0E0C&labelColor=0E0E0C&logoColor=FAFAF8"></picture></a>
+  <a href="https://www.npmjs.com/package/ghostimport"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/npm/v/ghostimport?label=version&style=for-the-badge&color=FAFAF8&labelColor=FAFAF8&logoColor=0E0E0C"><img alt="npm version" src="https://img.shields.io/npm/v/ghostimport?label=version&style=for-the-badge&color=0E0E0C&labelColor=0E0E0C&logoColor=FAFAF8"></picture></a>
+</p>
 
 ```bash
 npx ghostimport
